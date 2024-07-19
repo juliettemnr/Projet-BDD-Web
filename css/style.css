@@ -1,0 +1,152 @@
+.nav.navbar-brand{
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    
+
+}
+.fa-solid.fa-book-open-reader
+{
+    color:white;
+   
+}
+.navbar.navbar-custom 
+{
+    color: #023047;
+    background-color: #00081c;
+}
+.pageprincipale{
+    background-color: #00081c;
+}
+.nav-link.dropdown-toggle {
+
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+   
+
+}
+.text-container{
+    background-color: beige;
+    float:right;
+    font-size:30px;
+    color:black;
+  margin-left:10px;
+  margin-right: 130px;
+}
+.text-center1{
+    background-color: beige;
+    float:center;
+    font-size:30px;
+    color:black;
+  margin-left:10px;
+  margin-right: 130px;
+  font-weight: bold;
+}
+.modifier{
+ 
+    float:center;
+    font-size:30px;
+    color: green;
+  margin-left:10px;
+  margin-right: 130px;
+  font-weight: bold;
+}
+.text-center3{
+
+
+    float:center;
+    font-size:20px;
+   color: rgb(0, 0, 141);
+   font-weight: bold;
+  
+}
+.page{
+     text-align: center;   font-family: 'Monoton';
+    font-size: 100px;
+}
+
+
+.carousel-inner>.item>a>img,.carousel-inner>.item>img,.img-responsive,.thumbnail a>img,.thumbnail>img
+{
+    display:block;
+    max-width:3000px;
+    height:500px; /*La hauteur que tu veux pour ton carousel*/
+}
+.chacha{
+ text-decoration: antiquewhite;
+   font-family: 'Monoton', sans-serif; ;
+     text-align:center;
+}
+#horreur{
+    color: white;
+}
+.modifiertitre{
+    color:red;
+}
+#magique{
+
+    
+  color: black;
+}
+.text-mort{
+    color:red;
+    font-size:300px;
+}
+.text-magique{
+   
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right:50px;
+    text-align: justify;
+}
+.text-horreur{
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right:50px;
+    text-align: justify;
+}
+
+.nav-item.dropdown
+{
+    display: block;
+    float: right;
+}
+
+.fa-solid.fa-masks-theater
+{
+    color:red;
+   
+}
+
+.container{
+    height: 100vh;
+}
+.row {
+
+    height: 100%;
+}
+.btn-primary { color:#FFEFD7; background-image: -webkit-linear-gradient(top, #FF9B22 0%, #FF8C00 100%); background-image: linear-gradient(to bottom, #FF9B22 0%, #FF8C00 100%); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffFF9B22', endColorstr='#ffFF8C00', GradientType=0); filter: progid:DXImageTransform.Microsoft.gradient(enabled = false); background-repeat: repeat-x; border:0 none; }
+	.btn-action:hover,
+	.btn-action:focus { color:#fff; background: #FF9B22; }
+	.btn-action:active {	background: #FF8C00; }
+
+    .horizontal-scrollable > .row {
+        overflow-x: auto;
+        white-space: nowrap;
+
+    
+    }
+      
+    .horizontal-scrollable > .row > .col-xs-4 {
+        display: inline-block;
+
+    }
+    /* Decorations */
+      
+    .col-xs-4 {
+        color: white;
+        font-size: 24px;
+        padding-bottom: 20px;
+        padding-top: 18px;
+    }
+
